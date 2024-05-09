@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Movie App React
+Movie App With APi Key The Movie Database
+
+## Screenshots:
+![1715264905978](https://github.com/gesitwidyatsmo/movie-app-react/assets/140772511/a8bcc79c-9a32-4889-a40b-33445b3a991b)
+![1715264953573](https://github.com/gesitwidyatsmo/movie-app-react/assets/140772511/f60df61a-da17-44da-9181-b50462376a98)
+![Group 61](https://github.com/gesitwidyatsmo/movie-app-react/assets/140772511/e336fbcb-b270-4b76-9bb2-a19582a63cbb)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
