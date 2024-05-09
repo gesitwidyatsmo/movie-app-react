@@ -27,7 +27,7 @@ Once you have set up the API key, follow these steps to install the project:
 
 npm install
 npm run dev
-# or
+#or
 yarn install
 yarn dev
 
