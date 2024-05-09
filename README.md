@@ -25,11 +25,13 @@ Once you have set up the API key, follow these steps to install the project:
 2. Navigate to the project directory.
 3. Install dependencies using your preferred package manager and run:
 
+```bash
 npm install
 npm run dev
-#or
+# or
 yarn install
 yarn dev
+```
 
 ## Technologies:
 - ReactJS
